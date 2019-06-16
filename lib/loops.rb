@@ -17,4 +17,6 @@ multiple_of_two = []
   multiple_of_two.push(number * 2)
 end
 
+
+
 puts multiple_of_two
