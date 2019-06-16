@@ -11,3 +11,7 @@ end
 end
 
 multiple_of_two = []
+
+10.times do |num|
+  
+end
