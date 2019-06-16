@@ -23,7 +23,7 @@ end
 
 students = ["Martin", "Courtney", "Charleese", "Danny", "Jon"]
 
-students.each do |name|
-  puts name.upcase
+students.each do |student|
+  puts student.upcase
 end
 
