@@ -15,3 +15,5 @@ multiple_of_two = []
 10.times do |number|
   multiple_of_two << number * 2 
 end
+
+puts multiple_of_two
