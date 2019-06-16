@@ -21,4 +21,3 @@ multiple_of_two.each do
   
 end
 
-puts multiple_of_two
