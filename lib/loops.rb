@@ -14,7 +14,6 @@ multiple_of_two = []
 
 10.times do |number|
   multiple_of_two << number * 2 
-  multiple_of_two.push(number * 2)
 end
 
 multiple_of_two.each do |number|
