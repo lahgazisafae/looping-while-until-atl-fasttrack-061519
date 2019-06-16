@@ -10,3 +10,4 @@ end
   puts "This is the number! " + num.to_s
 end
 
+multiple_of_two = []
