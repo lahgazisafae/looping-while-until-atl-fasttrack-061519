@@ -17,7 +17,7 @@ multiple_of_two = []
   multiple_of_two.push(number * 2)
 end
 
-multiple_of_two.each do 
+multiple_of_two.each do |number|
   
 end
 
