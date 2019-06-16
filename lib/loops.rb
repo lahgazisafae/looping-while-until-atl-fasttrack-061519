@@ -18,6 +18,10 @@ multiple_of_two = []
 end
 
 multiple_of_two.each do |number|
-  
+  puts number
 end
+
+students = ["Martin", "Courtney", "Charleese", "Danny", "Jon"]
+
+
 
